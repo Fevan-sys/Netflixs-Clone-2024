@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fevan-sys/Netflixs-Clone-2024/static/css/main.792e935d.css",
+    "main.js": "/Fevan-sys/Netflixs-Clone-2024/static/js/main.8763be5c.js",
+    "index.html": "/Fevan-sys/Netflixs-Clone-2024/index.html",
+    "main.792e935d.css.map": "/Fevan-sys/Netflixs-Clone-2024/static/css/main.792e935d.css.map",
+    "main.8763be5c.js.map": "/Fevan-sys/Netflixs-Clone-2024/static/js/main.8763be5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.792e935d.css",
+    "static/js/main.8763be5c.js"
+  ]
+}
