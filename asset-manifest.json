@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Fevan-sys/Netflixs-Clone-2024/static/css/main.792e935d.css",
-    "main.js": "/Fevan-sys/Netflixs-Clone-2024/static/js/main.8763be5c.js",
-    "index.html": "/Fevan-sys/Netflixs-Clone-2024/index.html",
-    "main.792e935d.css.map": "/Fevan-sys/Netflixs-Clone-2024/static/css/main.792e935d.css.map",
-    "main.8763be5c.js.map": "/Fevan-sys/Netflixs-Clone-2024/static/js/main.8763be5c.js.map"
+    "main.css": "/Netflixs-Clone-2024/static/css/main.792e935d.css",
+    "main.js": "/Netflixs-Clone-2024/static/js/main.bb5f93b3.js",
+    "index.html": "/Netflixs-Clone-2024/index.html",
+    "main.792e935d.css.map": "/Netflixs-Clone-2024/static/css/main.792e935d.css.map",
+    "main.bb5f93b3.js.map": "/Netflixs-Clone-2024/static/js/main.bb5f93b3.js.map"
   },
   "entrypoints": [
     "static/css/main.792e935d.css",
-    "static/js/main.8763be5c.js"
+    "static/js/main.bb5f93b3.js"
   ]
 }
